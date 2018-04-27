@@ -1,0 +1,14 @@
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\bin\Debug\phoneBill.exe.config
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\bin\Debug\phoneBill.exe
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\bin\Debug\phoneBill.pdb
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\bin\Debug\phoneBill.xml
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\obj\Debug\phoneBill.vbprojResolveAssemblyReference.cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\obj\Debug\Interop.ADODB.dll
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\obj\Debug\phoneBill.vbproj.ResolveComReference.cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\obj\Debug\phoneBill.Form1.resources
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\obj\Debug\phoneBill.Resources.resources
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\obj\Debug\phoneBill.vbproj.GenerateResource.Cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\obj\Debug\phoneBill.vbproj.CoreCompileInputs.cache
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\obj\Debug\phoneBill.exe
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\obj\Debug\phoneBill.xml
+C:\ITD\Term 3\Visual Basic.Net\assignment\Midterm\phoneBill\phoneBill\obj\Debug\phoneBill.pdb
